@@ -42,7 +42,7 @@ $(function () {
     // TODO 3 - Create Collectables
     createCollectable("max", 1350, 50);
     createCollectable("database", 200, 170, 0.5, 0.7);
-    createCollectable("grace", 200, 400, );
+    createCollectable("grace", 200, 400);
 
 
     
